@@ -5,7 +5,6 @@
 ### 참여자
 - [김동건](https://github.com/DongGeon0908)
 - [안병욱](https://github.com/uuuugi)
-- [조원제](https://github.com/onejaejae)
 <hr />
 
 ### 회의일정
